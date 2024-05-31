@@ -31,5 +31,5 @@ I am a qualified environmental engineer currently working in the water industry.
 
 ## Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tengfei-wang) or email me at [tengfeiwang1989@gmail.com](tengfeiwang1989@gmail.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tengfei-wang) or email me at tengfeiwang1989@gmail.com.
 

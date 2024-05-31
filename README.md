@@ -27,6 +27,13 @@ I am a qualified environmental engineer currently working in the water industry.
 - **Description**: Analyzed groundwater quality data to identify trends and insights.
 - **Link**: [Groundwater Quality Analysis Project](https://github.com/ttfwang/groundwater_quality_analysis)
 
+
+### 2. Recycled Water Irrigation Analysis Dashboard
+
+- **Tools**: Excel, Power BI
+- **Description**: Analyzed recycled water irrigation data to identify trends and insights.
+- **Link**: [Recycled Water Irrigation Analysis Project](https://github.com/ttfwang/recyled_water_irrigation_usage_pattern_analysis)
+
 ---
 
 ## Contact

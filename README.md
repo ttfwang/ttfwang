@@ -12,23 +12,26 @@ I am a qualified environmental engineer currently working in the water industry.
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
 
 ---
 
 ## Projects
+### 1. World Life Expectancy Exploratory Data Analysis Project
 
-### 1. Groundwater Quality Analysis Dashboard
+- **Tools**: MySQL
+- **Description**: Analyzed real-world life expectancy data to identify trends and insights.
+- **Link**: [Exploratory Data Analysis Project](https://github.com/ttfwang/world_life_expectancy_exploratory_data_analysis/tree/main)
+
+### 2. Groundwater Quality Analysis Dashboard
 
 - **Tools**: Excel, Power BI
 - **Description**: Analyzed groundwater quality data to identify trends and insights.
 - **Link**: [Groundwater Quality Analysis Project](https://github.com/ttfwang/groundwater_quality_analysis)
 
 
-### 2. Recycled Water Irrigation Analysis Dashboard
+### 3. Recycled Water Irrigation Analysis Dashboard
 
 - **Tools**: Excel, Power BI
 - **Description**: Analyzed recycled water irrigation data to identify trends and insights.

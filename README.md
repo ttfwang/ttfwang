@@ -19,7 +19,7 @@ I am a qualified environmental engineer currently working in the water industry.
 
 ## Projects
 
-### **SQL Projects**
+### **`SQL Projects`**
 
 #### <small>1. US Household Income Exploratory Data Analysis Project</small>
 
@@ -33,11 +33,11 @@ I am a qualified environmental engineer currently working in the water industry.
 - **Description**: Analyzed real-world life expectancy data to identify trends and insights.
 - **Link**: [Exploratory Data Analysis Project](https://github.com/ttfwang/world_life_expectancy_exploratory_data_analysis/tree/main)
 
-### **Python Projects**
+### **`Python Projects`**
 
 #### <small>Currently working on Python projects to be added soon.</small>
 
-### **Power BI Projects**
+### **`Power BI Projects`**
 
 #### <small>1. Groundwater Quality Analysis Dashboard</small>
 

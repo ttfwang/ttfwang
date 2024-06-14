@@ -21,13 +21,18 @@ I am a Water Modelling and Data Officer currently working in the water industry.
 
 ### **`SQL Projects`**
 
-#### <small>1. US Household Income Exploratory Data Analysis Project</small>
+#### <small>1. Automated Data Cleaning Project</small>
+- **Tools**: MySQL
+- **Description**: Developed an automated data cleaning process for US household income data using MySQL.
+- **Link**: [Automated Data Cleaning Project](https://github.com/ttfwang/automated_data_cleaning_with_MySQL)
+  
+#### <small>2. US Household Income Exploratory Data Analysis Project</small>
 
 - **Tools**: MySQL
 - **Description**: Analyzed real-world US household income to identify trends and insights.
 - **Link**: [Exploratory Data Analysis Project](https://github.com/ttfwang/US_Household_Income_Data_exploratory_data-analysis)
 
-#### <small>2. World Life Expectancy Exploratory Data Analysis Project</small>
+#### <small>3. World Life Expectancy Exploratory Data Analysis Project</small>
 
 - **Tools**: MySQL
 - **Description**: Analyzed real-world life expectancy data to identify trends and insights.

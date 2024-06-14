@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a qualified environmental engineer currently working in the water industry. I have extensive experience in collecting, organizing, and analyzing data to ensure my organization meets regulatory obligations. I am proficient in Excel and Power BI and am currently self-learning SQL, Python, R, and Tableau to enhance my data analytic skills. I am passionate about turning data into actionable insights and am working towards making a career shift to become a data analyst. If you are interested in my skills, please contact me.
+I am a Water Modelling and Data Officer currently working in the water industry. I have extensive experience in collecting, organizing, and analyzing data to ensure my organization meets regulatory obligations. I am proficient in Excel and Power BI and am currently self-learning SQL, Python, R, and Tableau to enhance my data analytic skills. I am passionate about turning data into actionable insights and am working towards making a career shift to become a data analyst. If you are interested in my skills, please contact me.
 
 ---
 

@@ -38,12 +38,12 @@ I am a Water Modelling and Data Officer currently working in the water industry.
 - **Description**: Analyzed real-world life expectancy data to identify trends and insights.
 - **Link**: [Exploratory Data Analysis Project](https://github.com/ttfwang/world_life_expectancy_exploratory_data_analysis/tree/main)
 
-### **`Python Projects`**
+### **`Python Projects Portfolio`**([LINK](https://github.com/ttfwang/PortfolioProjects_Python))
 
-#### <small>1. Web Scraper + Regular Expression Project</small>
+#### <small>1. Web Scraper + Regular Expression Project
 - **Tools**: Jupyter notebook
 - **Description**: This project demonstrates my ability to use Python for web scraping, text processing, and data analysis by extracting and analyzing the text of Martin Luther King Jr.'s 'I Have a Dream' speech.
-- **Link**: [Web Scraper + Regular Expression Project](https://github.com/ttfwang/web_scraper-regular_expression_project/tree/main)
+
 
 ### **`Power BI Projects`**
 

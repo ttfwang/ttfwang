@@ -34,8 +34,8 @@ I am a Water Modelling and Data Officer currently working in the water industry.
 ### **`Power BI Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel))
 - **Tools**: Excel, Power BI
 - **Project list:**
-  - Groundwater Quality Analysis Dashboard
-  - Recycled Water Irrigation Analysis Dashboard
+  - [Groundwater Quality Analysis Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/1.%20Groundwater%20Quality%20Analysis)
+  - [Recycled Water Irrigation Analysis Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/2.%20Recycled%20Water%20Irrigation%20Analysis#recycled-water-irrigation-analysis)
 
 ---
 

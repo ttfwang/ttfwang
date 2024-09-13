@@ -22,9 +22,9 @@ I am a Water Modelling and Data Officer currently working in the water industry.
 ### **`SQL Projects Portfolio`**([LINK](https://github.com/ttfwang/PortfolioProjects_SQL))
 - **Tools**: MySQL
 - **Project list:**
-  - Automated Data Cleaning Project
-  - US Household Income Exploratory Data Analysis Project
-  - World Life Expectancy Exploratory Data Analysis Project
+  - [Automated Data Cleaning Project](https://github.com/ttfwang/PortfolioProjects_SQL/tree/main/1.%20Automated%20Data%20Cleaning%20Project)
+  - [US Household Income Exploratory Data Analysis Project](https://github.com/ttfwang/PortfolioProjects_SQL/tree/main/3.%20US%20Household%20Income%20Data%20Analysis)
+  - [World Life Expectancy Exploratory Data Analysis Project](https://github.com/ttfwang/PortfolioProjects_SQL/tree/main/2.%20World%20Life%20Expectancy%20Exploratory%20Data%20Analysis)
 
 ### **`Python Projects Portfolio`**([LINK](https://github.com/ttfwang/PortfolioProjects_Python))
 - **Tools**: Jupyter Notebook, Google Colab, Visul Studio

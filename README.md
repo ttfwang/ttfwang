@@ -19,45 +19,23 @@ I am a Water Modelling and Data Officer currently working in the water industry.
 
 ## Projects
 
-### **`SQL Projects`**
-
-#### <small>1. Automated Data Cleaning Project</small>
+### **`SQL Projects Portfolio`**([LINK](https://github.com/ttfwang/PortfolioProjects_SQL))
 - **Tools**: MySQL
-- **Description**: Developed an automated data cleaning process for US household income data using MySQL.
-- **Link**: [Automated Data Cleaning Project](https://github.com/ttfwang/automated_data_cleaning_with_MySQL)
-  
-#### <small>2. US Household Income Exploratory Data Analysis Project</small>
-
-- **Tools**: MySQL
-- **Description**: Analyzed real-world US household income to identify trends and insights.
-- **Link**: [Exploratory Data Analysis Project](https://github.com/ttfwang/US_Household_Income_Data_exploratory_data-analysis)
-
-#### <small>3. World Life Expectancy Exploratory Data Analysis Project</small>
-
-- **Tools**: MySQL
-- **Description**: Analyzed real-world life expectancy data to identify trends and insights.
-- **Link**: [Exploratory Data Analysis Project](https://github.com/ttfwang/world_life_expectancy_exploratory_data_analysis/tree/main)
+- **Project list:**
+  - Automated Data Cleaning Project
+  - US Household Income Exploratory Data Analysis Project
+  - World Life Expectancy Exploratory Data Analysis Project
 
 ### **`Python Projects Portfolio`**([LINK](https://github.com/ttfwang/PortfolioProjects_Python))
+- **Tools**: Jupyter Notebook, Google Colab, Visul Studio
+- **Project list:** 
+  - Web Scraper + Regular Expression Project
 
-#### <small>1. Web Scraper + Regular Expression Project
-- **Tools**: Jupyter notebook
-- **Description**: This project demonstrates my ability to use Python for web scraping, text processing, and data analysis by extracting and analyzing the text of Martin Luther King Jr.'s 'I Have a Dream' speech.
-
-
-### **`Power BI Projects`**
-
-#### <small>1. Groundwater Quality Analysis Dashboard</small>
-
+### **`Power BI Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel))
 - **Tools**: Excel, Power BI
-- **Description**: Analyzed groundwater quality data to identify trends and insights.
-- **Link**: [Groundwater Quality Analysis Project](https://github.com/ttfwang/groundwater_quality_analysis)
-
-#### <small>2. Recycled Water Irrigation Analysis Dashboard</small>
-
-- **Tools**: Excel, Power BI
-- **Description**: Analyzed recycled water irrigation data to identify trends and insights.
-- **Link**: [Recycled Water Irrigation Analysis Project](https://github.com/ttfwang/recyled_water_irrigation_usage_pattern_analysis)
+- **Project list:**
+  - Groundwater Quality Analysis Dashboard
+  - Recycled Water Irrigation Analysis Dashboard
 
 ---
 

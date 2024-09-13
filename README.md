@@ -29,7 +29,7 @@ I am a Water Modelling and Data Officer currently working in the water industry.
 ### **`Python Projects Portfolio`**([LINK](https://github.com/ttfwang/PortfolioProjects_Python))
 - **Tools**: Jupyter Notebook, Google Colab, Visul Studio
 - **Project list:** 
-  - Web Scraper + Regular Expression Project
+  - [Web Scraper + Regular Expression Project](https://github.com/ttfwang/PortfolioProjects_Python/blob/main/1.%20Web%20Scraper%20%2B%20Regular%20Expression%20Project.ipynb)
 
 ### **`Power BI Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel))
 - **Tools**: Excel, Power BI

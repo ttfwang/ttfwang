@@ -37,6 +37,11 @@ I am a data analyst and qualified environmental engineer currently working in th
   - [Groundwater Quality Analysis Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/1.%20Groundwater%20Quality%20Analysis)
   - [Recycled Water Irrigation Analysis Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/2.%20Recycled%20Water%20Irrigation%20Analysis#recycled-water-irrigation-analysis)
 
+### **`Data Science Study Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_DataScienceStudy/tree/main))
+- **Tools**: Python, Excel, Data Modelling and Forecasting
+- **Project list:**
+  - [Dominance matrices in AFL](https://github.com/ttfwang/PortfolioProjects_DataScienceStudy/tree/main/1.Dominance%20matrices%20in%20AFL)
+
 ---
 
 ## Contact

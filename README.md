@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a data analyst and qualified environmental engineer currently working in the water industry. I have extensive experience in collecting, organizing, and analyzing data to ensure my organization meets regulatory obligations. I am proficient in Excel and Power BI and am currently self-learning SQL, Python, R, and Tableau to enhance my data analytic skills. If you are interested in my skills, please contact me.
+I am a data analyst and qualified environmental engineer currently working in the water industry. I have extensive experience in collecting, organizing, and analyzing data to find the insight of data and support fast decision making. I am proficient in Excel, Power BI and SQL and am currently self-learning Python, R, and Tableau to enhance my data analytic skills. If you are interested in my skills, please contact me.
 
 ---
 
@@ -19,6 +19,19 @@ I am a data analyst and qualified environmental engineer currently working in th
 
 ## Projects
 
+### **`Power BI and SQL Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel))
+- **Tools**: Excel, Power BI
+- **Project list:**
+  - [Water Quality Sampling Compliance Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard)
+  - [Recycled Water Customer Data Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/4.%20Recycled%20Water%20Customer%20Data%20Dashboard)
+
+
+### **`Power BI Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel))
+- **Tools**: Excel, Power BI
+- **Project list:**
+  - [Groundwater Quality Analysis Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/1.%20Groundwater%20Quality%20Analysis)
+  - [Recycled Water Irrigation Analysis Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/2.%20Recycled%20Water%20Irrigation%20Analysis#recycled-water-irrigation-analysis)
+
 ### **`SQL Projects Portfolio`**([LINK](https://github.com/ttfwang/PortfolioProjects_SQL))
 - **Tools**: MySQL
 - **Project list:**
@@ -31,11 +44,7 @@ I am a data analyst and qualified environmental engineer currently working in th
 - **Project list:** 
   - [Web Scraper + Regular Expression Project](https://github.com/ttfwang/PortfolioProjects_Python/tree/main/1.%20Web%20Scraper%20%2B%20Regular%20Expression%20Project)
 
-### **`Power BI Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel))
-- **Tools**: Excel, Power BI
-- **Project list:**
-  - [Groundwater Quality Analysis Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/1.%20Groundwater%20Quality%20Analysis)
-  - [Recycled Water Irrigation Analysis Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/2.%20Recycled%20Water%20Irrigation%20Analysis#recycled-water-irrigation-analysis)
+
 
 ### **`Data Science Study Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_DataScienceStudy/tree/main))
 - **Tools**: Python, Excel, Data Modelling and Forecasting

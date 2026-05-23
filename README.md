@@ -20,7 +20,7 @@ I am a data analyst and qualified environmental engineer currently working in th
 ## Projects
 
 ### **`Power BI and SQL Projects`**([LINK](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel))
-- **Tools**: Excel, Power BI
+- **Tools**: Excel, Power BI and Microsoft SQL Server
 - **Project list:**
   - [Water Quality Sampling Compliance Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard)
   - [Recycled Water Customer Data Dashboard](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/4.%20Recycled%20Water%20Customer%20Data%20Dashboard)
